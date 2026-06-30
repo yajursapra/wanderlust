@@ -10,6 +10,7 @@ import Post from './pages/Post'
 import Login from './pages/Login'
 import Admin from './pages/Admin'
 import SignUp from './pages/SignUp'
+import Users from './pages/Users'
 
 export default function App() {
   const [dark, setDark] = useState(false)
@@ -29,8 +30,8 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/signup" element={<SignUp />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/admin" element={<Admin />} />
+          <Route path='/post/:id' element ={<Post />} />
+
         </Routes>
         <Footer />
       </BrowserRouter>
