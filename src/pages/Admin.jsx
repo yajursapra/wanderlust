@@ -19,7 +19,7 @@ function Admin() {
   }, [])
 
   async function fetchPosts() {
-    const { data } = await supabase.from('posts').select('*').order('created_at', { ascending: false })
+    const { data } = await supabase.from('posts').select('*').order('date', { ascending: false })
     setPosts(data || [])
   }
 
