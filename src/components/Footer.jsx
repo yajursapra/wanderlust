@@ -63,7 +63,7 @@ function Footer() {
         flexWrap: 'wrap',
         gap: '8px'
       }}>
-        <span>© 2025 Sumit Khatri · Wanderlust</span>
+        <span>© 2025 Yajur · Wanderlust</span>
         <span>Made with love & a carry-on bag ✈</span>
       </div>
     </footer>

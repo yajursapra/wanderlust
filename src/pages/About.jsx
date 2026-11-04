@@ -18,19 +18,19 @@ function About() {
         fontSize: '2.5rem',
         fontWeight: '700',
         marginBottom: '0.5rem'
-      }}>Hi, I'm Sumit</h1>
+      }}>Hi, I'm Yajur</h1>
 
       <p style={{ color: '#1D9E75', fontWeight: '500', marginBottom: '2rem' }}>
         Travel writer · Explorer · Storyteller
       </p>
 
       <p style={{ lineHeight: '1.8', color: '#444', marginBottom: '1.5rem' }}>
-        I've been travelling since I was 22 with nothing but a backpack and a one-way ticket. 
+        I've been travelling since I was 22 with nothing but a backpack and a one-way ticket.
         This blog is my way of sharing the places, people, and moments that changed how I see the world.
       </p>
 
       <p style={{ lineHeight: '1.8', color: '#444', marginBottom: '2.5rem' }}>
-        I write honestly — about the beautiful parts and the hard parts. No sponsored content, 
+        I write honestly — about the beautiful parts and the hard parts. No sponsored content,
         no perfect Instagram moments. Just real travel stories.
       </p>
 

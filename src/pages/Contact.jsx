@@ -15,7 +15,7 @@ function Contact() {
       <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
         <div>
           <label style={{ fontSize: '13px', fontWeight: '500', display: 'block', marginBottom: '6px' }}>Your name</label>
-          <input type="text" placeholder="Sumit Khatri" style={{
+          <input type="text" placeholder="Yajur" style={{
             width: '100%',
             padding: '12px 16px',
             borderRadius: '8px',

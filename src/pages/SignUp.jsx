@@ -33,7 +33,7 @@ function SignUp() {
           <input
             type="text"
             name="name"
-            placeholder="Sumit Khatri"
+            placeholder="Yajur"
             value={form.name}
             onChange={handleChange}
             required

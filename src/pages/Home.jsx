@@ -13,7 +13,7 @@ function Home() {
       const { data, error } = await supabase
         .from('posts')
         .select('*')
-        .order('created_at', { ascending: false })
+        .order('date', { ascending: false })
         .limit(3)
       if (error) console.error(error)
       else setPosts(data)
