@@ -2,7 +2,7 @@
 
 A travel blog built with React and Supabase — the site visitors read stories on, and a private admin panel where the site owner writes and publishes them.
 
-🔗 **Live demo:** https://wanderlust-pi-one.vercel.app/
+🔗 **Live demo:** (https://wanderlust-pi-ivory-82.vercel.app/)
 
 ---
 
